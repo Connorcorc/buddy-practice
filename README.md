@@ -1,1 +1,2 @@
 # buddy-practice
+New Sentence
